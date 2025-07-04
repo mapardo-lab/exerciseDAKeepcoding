@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+num2words
+gensim
+wordcloud
+nltk
+joblib

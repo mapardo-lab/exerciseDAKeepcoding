@@ -1,0 +1,14 @@
+artifact_uri: file:///home/mapardo/KeepCoding/mlops/exerciseDAKeepcoding/MLFlow/mlruns/707009035700184286/85a80ac29c424a2992d861baa13bba2a/artifacts
+end_time: 1751614887262
+entry_point_name: ''
+experiment_id: '707009035700184286'
+lifecycle_stage: active
+run_id: 85a80ac29c424a2992d861baa13bba2a
+run_name: sentiment-Amazon2-n_neighbors_15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751614887244
+status: 3
+tags: []
+user_id: mapardo
