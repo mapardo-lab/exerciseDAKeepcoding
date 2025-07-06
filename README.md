@@ -34,4 +34,4 @@ Se consruye una API con la librería fastAPI de python que contiene 5 'apps' (ex
 
 - translate, app.get que utiliza el modelo 'facebook/mbart-large-50-many-to-many-mmt' descargado de HuggingFace para traducir un texto del español al inglés.
 
-Se adjuntan las capturas de pantall de la aplicación en fastaAPIimages.pdf.
+Se adjuntan las capturas de pantalla de la aplicación en fastaAPIimages.pdf.
