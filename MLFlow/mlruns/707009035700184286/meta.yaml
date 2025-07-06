@@ -1,6 +1,0 @@
-artifact_location: file:///home/mapardo/KeepCoding/mlops/exerciseDAKeepcoding/MLFlow/mlruns/707009035700184286
-creation_time: 1751614569009
-experiment_id: '707009035700184286'
-last_update_time: 1751614569009
-lifecycle_stage: active
-name: sentiment-Amazon2_knn
