@@ -4,3 +4,4 @@ MLFlow/MLFlow_images.odp
 MLFLOW/mlruns
 MLFLOW/old
 .*
+fastAPI/*.odp
