@@ -3,3 +3,4 @@ MLFlow/__pycache__
 MLFlow/MLFlow_images.odp
 MLFLOW/mlruns
 MLFLOW/old
+.*
