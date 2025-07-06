@@ -1,8 +1,9 @@
 .gitignore
 masterclass_despliegue_practica_sin_solucion.ipynb
-MLFlow/__pycache__/
-MLFlow/MLFlow_images.odp
-MLFlow/mlruns
+MLFlow/*odp
 MLFlow/old
-fastAPI/fastaAPIimages.odp
+MLFlow/__pycache__
+MLFlow/cache
+MLFlow/mlruns
 fastAPI/__pycache__
+fastAPI/*odp
